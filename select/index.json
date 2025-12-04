@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Mama's Boy",
+  "base_artist": "KEIJU",
+  "createdAt": "2025-12-04T08:14:30.464585Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mama's Boy",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/01_Mama's_Boy_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mama's Boy",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/02_Mama's_Boy_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mama's Boy",
+      "artist": "Ramones",
+      "has_synced": false,
+      "path": "select/03_Mama's_Boy_Ramones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mama's Boy",
+      "artist": "The Ramones",
+      "has_synced": false,
+      "path": "select/04_Mama's_Boy_The_Ramones.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mama’s Boy",
+      "artist": "Ramones",
+      "has_synced": false,
+      "path": "select/05_Mama’s_Boy_Ramones.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mama's Boy (Demo)",
+      "artist": "Ramones",
+      "has_synced": false,
+      "path": "select/06_Mama's_Boy_(Demo)_Ramones.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mama's Boy",
+      "artist": "Suzi Quatro",
+      "has_synced": false,
+      "path": "select/07_Mama's_Boy_Suzi_Quatro.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mama's Boy",
+      "artist": "Ryan Griffin",
+      "has_synced": true,
+      "path": "select/08_Mama's_Boy_Ryan_Griffin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "MAMA'S BOY",
+      "artist": "Vince Staples",
+      "has_synced": true,
+      "path": "select/09_MAMA'S_BOY_Vince_Staples.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mama's Boy",
+      "artist": "KEIJU, LEX, 7",
+      "has_synced": false,
+      "path": "select/pl_01_Mama's_Boy_KEIJU,_LEX,_7.txt"
+    }
+  ]
+}
